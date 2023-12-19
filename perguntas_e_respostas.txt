@@ -1,0 +1,6 @@
+Pergunta: Qual o seu nome
+Resposta: Rennan
+
+Pergunta: Qual sua idade ?
+Resposta: 33
+
