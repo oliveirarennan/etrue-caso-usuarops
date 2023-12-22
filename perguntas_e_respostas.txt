@@ -1,6 +1,18 @@
-Pergunta: Qual o seu nome
-Resposta: Rennan
+Pergunta: Você como usuário gostaria de ver quantas acomodações na home do site ?
+Resposta: 8 é um número de interessante.
 
-Pergunta: Qual sua idade ?
-Resposta: 33
+Pergunta: Você como usuário prefere se autenticar antes de fazer a reserva, ou após já ter escolhido a sua acomodação?
+Resposta: Após ter escolhido a acomadação
+
+Pergunta: Você como recpcionista, tem alguma funcionalidade especifica que gostaria de ver no sistema ?
+Resposta: Sim, facilidade de encontrar dados de contato dos clientes para uma facil comunicação.
+
+Pergunta: Você gostaria de uma área na ficha de cada cliente que permitisse adicionar informações adicionais e comentarios ?
+Resposta: Sim, seria bem util.
+
+Pergunta: Você como gerente, o quão importante é a possibilidade de adicionar e remover acomodações da unidade a qual gerencia ?
+Resposta: Muito importante, uma vez que o resultado disso é refletido diretamente para os clientes.
+
+Pergunta: Você acha necessário poder conceder e retirar o acesso de recepcionistas ao sistema?
+Resposta: Sim, em casos de problemas trabalhistas é importante que esse tipo de ação seja tomada com velocidade.
 
